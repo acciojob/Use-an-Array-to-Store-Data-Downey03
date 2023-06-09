@@ -1,4 +1,4 @@
-
+let yourArray = ["hello",33,true,false,"as"]
 yourArray.push("hgello");
 yourArray.push("asf");
 yourArray.push(2);
